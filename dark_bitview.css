@@ -1,0 +1,344 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+a:active, a:link, a:visited {
+    color: #9cb5ff;
+}
+.expand-panel a.expand-header:hover {
+    color: #ddd;
+}
+.expand-panel a.expand-header, .expand-panel a.expand-header:link, .expand-panel a.expand-header:visited {
+    color: #fff;
+}
+#util-links .util-item a {
+    color: #9cb5ff;
+}
+#masthead .nav-item .content {
+    color: #9cb5ff;
+}
+#masthead .nav-item.selected .content {
+    color: #ccc;
+}
+.homepage-block-heading-gray {
+    color: #8c8c8c;
+}
+.dg, .dgText {
+    color: #848484;
+}
+.grayText {
+    color: #797979;
+}
+.footer {
+    color: #777;
+}
+.homepage-yellow-block, .homepage-yellow-block-bot {
+    background: #ff000000 top left no-repeat;
+}
+.homepage-side-block.padT10 {
+    border: 1px solid #ccc;
+}
+.headerTitle {
+    color: #fff;
+}
+.watch-tabs .watch-tab-sel {
+    background: #000;
+}
+.watch-tabs .watch-tab-sel a {
+    color: #fff;
+}
+#watch-comments-summary {
+    color: #d9d9d9;
+}
+.small-expand-panel .expand-header-stat {
+    color: #808080;
+}
+.watch-comment-head, .watch-comment-head-hidden {
+    background-color: #333;
+}
+.watch-comment-time {
+    color: #888;
+}
+#comment_text {
+    background: #000;
+    color: #fff;
+}
+.smallLabel {
+    color: #fff;
+}
+.highlight {
+    color: #bbb;
+}
+.searchFooterBox div {
+    background: #000;
+}
+#masthead {
+    background-color: #000;
+}
+#masthead .logo {
+    content: url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/bitview.gif);
+    width: 120px;
+    height: 48px;
+    border: 0;
+}
+#masthead .bar .leftcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -132px 0;
+}
+#masthead .bar .rightcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -137px 0;
+}
+#masthead .search-bar {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) repeat-x scroll 0 -63px
+}
+#masthead .nav-item {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll 0 -137px;
+}
+#masthead .nav-item.selected {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll 0 -100px
+}
+#masthead .nav-item .leftcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -152px 0
+}
+#masthead .nav-item.selected .leftcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -142px 0
+}
+#masthead .nav-item .rightcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -157px 0
+}
+#masthead .nav-item.selected .rightcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -147px 0
+}
+.gaiaHelpBtn {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -221px -18px;
+}
+#iconMail {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -488px -22px;
+}
+#iconMail.noMail {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -472px -19px
+}
+.activeSharingGreenHeader {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -447px -22px
+}
+.activeSharingRedHeader {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -459px -22px
+}
+.activeSharingGreen {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -449px -28px
+}
+.activeSharingRed {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -461px -28px
+}
+.globalFlag {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -162px -20px;
+}
+#search-settings-form .close-link img {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -488px 0;
+}
+#debates_footer_img {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -182px -17px
+}
+#igoogle_footer_img {
+ height:17px;
+ width:62px;
+ float:left;
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -172px 0
+}
+.QLIconImg {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -537px 4px
+}
+.QLIconImgOver {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -562px 4px
+}
+.partner-legend {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -463px 0;
+ width:9px;
+ height:9px
+}
+.partner-marker {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -447px 0;
+}
+.subButton b {
+ background:#06f url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) repeat-x 0 -249px;
+ text-decoration:none
+}
+.editButton b {
+ background:#06f url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) repeat-x 0 -249px;
+}
+.action-button .action-button-leftcap,
+.add-button .add-button-leftcap,
+.edit-button .edit-button-leftcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -132px -37px
+}
+.add-button .add-button-leftcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -162px -37px
+}
+.action-button.inactive .action-button-leftcap,
+.add-button.inactive .add-button-leftcap,
+.edit-button .edit-button-leftcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -152px -37px
+}
+.action-button .action-button-text,
+.add-button .add-button-text,
+.edit-button .edit-button-text {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll 0 -174px;
+}
+.add-button .add-button-text {
+ color:#ffd06e;
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -305px -377px
+}
+.action-button.inactive .action-button-text,
+.add-button.inactive .add-button-text,
+.edit-button .edit-button-text {
+ color:#fff;
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll 0 -224px
+}
+.action-button .action-button-rightcap,
+.add-button .add-button-rightcap,
+.edit-button .edit-button-rightcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -137px -37px
+}
+.add-button .add-button-rightcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -167px -37px
+}
+.action-button.inactive .action-button-rightcap,
+.add-button.inactive .add-button-rightcap,
+.edit-button .edit-button-rightcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -157px -37px
+}
+.action-button:hover .action-button-leftcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -142px -37px
+}
+.action-button:hover .action-button-text {
+ text-decoration:underline;
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll 0 -199px
+}
+.action-button:hover .action-button-rightcap {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -147px -37px
+}
+.arrowDown {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -423px 0
+}
+.arrowRight {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -423px -20px
+}
+.expand-panel .expand-header .arrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -423px -19px;
+}
+.expand-panel.expanded .expand-header .arrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -423px 1px
+}
+a .LeftSingleArrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll 0 -332px
+}
+a .RightSingleArrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -19px -332px
+}
+a:hover .LeftSingleArrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -39px -332px
+}
+a:hover .RightSingleArrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -58px -332px
+}
+a:active .LeftSingleArrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -78px -332px
+}
+a:active .RightSingleArrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -97px -332px
+}
+.ratingVS-left {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -99px -287px;
+}
+.ratingVS-right {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -107px -287px;
+}
+img.ratingVS {
+ background:#000 url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll;
+}
+.ratingL-left {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -291px -294px;
+}
+.ratingL-right {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -302px -294px;
+}
+img.ratingL {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll;
+}
+.icn_star_full_19x20 {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -196px -274px
+}
+.icn_star_half_19x20 {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -196px -294px
+}
+.icn_star_empty_19x20 {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -215px -274px
+}
+#btn-listview-on {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -555px -23px
+}
+#btn-listview-off {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -555px -43px
+}
+#btn-gridview-on {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -579px -43px
+}
+#btn-gridview-off {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -579px -23px
+}
+.icn_share_mail {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -472px -21px;
+}
+.icn_share_promoted_digg,
+a:hover .icn_share_digg {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -297px -47px
+}
+.icn_share_promoted_facebook,
+a:hover .icn_share_facebook {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -265px -47px
+}
+.icn_share_promoted_myspace,
+a:hover .icn_share_myspace {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -281px -47px
+}
+.watch-tabs td {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -305px -101px;
+ color:#fff;
+}
+.watch-comment-down-hover:hover,
+.watch-comment-down-on {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -385px -19px
+}
+.watch-comment-down,
+.watch-comment-down-hover,
+.watch-comment-voting-off .watch-comment-down-hover {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -385px 0
+}
+.watch-comment-up-hover:hover,
+.watch-comment-up-on {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -404px -19px
+}
+.watch-comment-up,
+.watch-comment-up-hover,
+.watch-comment-voting-off .watch-comment-up-hover {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -404px 0
+}
+.watch-playlist-row-deleter {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -439px -22px
+}
+#search-options-container .dropdown-link a {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -302px -377px;
+ color:#f3c;
+}
+#search-options-container .show-dropdown .dropdown-link a {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll 0 -377px
+}
+#search-options-container .dropdown-link a.arrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -485px -38px
+}
+#search-options-container .show-dropdown .dropdown-link a.arrow {
+ background:transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/master-vfl42001.png) no-repeat scroll -459px -38px
+}
+#watch-channel-vids-div {
+    background: #111;
+    border: 1px solid #ccc;
+}
