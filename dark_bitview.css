@@ -500,6 +500,7 @@ table[background="/img/headgrad.jpg"] {
 .watch-comment-head[style="background-color: #fffcc2;"] {
 	background: #4f4f30 !important;
 }
+.watch-comment-action a, .watch-comment-head-link,
 .eLink {
     border-bottom: 1px dotted #9cb5ff;
     color: #9cb5ff;
