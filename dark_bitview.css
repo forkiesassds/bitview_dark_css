@@ -504,6 +504,9 @@ table[background="/img/headgrad.jpg"] {
     border-bottom: 1px dotted #9cb5ff;
     color: #9cb5ff;
 }
+.watch-video-response-duration {
+    color: #fff !important;
+}
 .vlPlayer2009.whiteBg .vlControls,
 .vlPlayer2009.whiteBg .vlProgressBar,
 .vlPlayer2009.whiteBg .vlcBtn {
