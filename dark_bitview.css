@@ -517,6 +517,16 @@ table[background="/img/headgrad.jpg"] {
 .signup-table {
     background: #000;
 }
+#signup-bitview-logo {
+    background: url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/bitview.gif) no-repeat;
+    background-size: 73px, 29px;
+    width: 73px;
+    text-indent: -9999px;
+    padding: 40px 0 0 0;
+    height: 0;
+    overflow: hidden;
+    margin-top: 10px;
+}
 .vlPlayer2009.whiteBg .vlControls,
 .vlPlayer2009.whiteBg .vlProgressBar,
 .vlPlayer2009.whiteBg .vlcBtn {
