@@ -57,7 +57,7 @@ a:active, a:link, a:visited {
     background-color: #333;
 }
 .watch-comment-time {
-    color: #888;
+    color: #fff;
 }
 #comment_text {
     background: #000;
@@ -102,7 +102,8 @@ input {
     background: #000;
 }
 #watch-video-response {
-    background: #737300;
+    background: #9f9f66;
+    border: 1px solid #7f6619;
 }
 #masthead {
     background-color: #000;
@@ -373,4 +374,218 @@ a:hover .icn_share_myspace {
 #watch-channel-vids-div {
     background: #111;
     border: 1px solid #ccc;
+}
+table[bgcolor="#eaf0fa"] {
+	background-color: #000;
+    border: solid 1px;
+}
+img[src="/img/box_login_tl.gif"] {
+	display: none;
+}
+.channelMastheadTable {
+	background-color: #000;
+}
+a.masthead {
+    color: #9cb5ff !important;
+}
+a.masthead:link {
+    color: #9cb5ff !important;
+}
+a.masthead:hover {
+    color: #9cb5ff !important;
+}
+a.masthead:active {
+    color: #9cb5ff !important;
+}
+a.masthead:visited {
+    color: #9cb5ff !important;
+}
+a.headerLink {
+    color: #9cb5ff !important;
+}
+a.headerLink:link {
+    color: #9cb5ff !important;
+}
+a.headerLink:hover {
+    color: #9cb5ff !important;
+}
+a.headerLink:active {
+    color: #9cb5ff !important;
+}
+a.headerLink:visited {
+    color: #9cb5ff !important;
+}
+#smallMastheadLogo {
+	display: none;
+}
+a[href="index.php"] {
+	content: url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/bitview.gif);
+	width: 104px;
+	height: 37px;
+}
+#smallMastheadBottom {
+    background: transparent url(https://raw.githubusercontent.com/forkiesassds/bitview_dark_css/master/profile-vfl30243.gif) no-repeat scroll 0 0;
+}
+.messages_actions {
+    background: #000;
+}
+a[style="border-bottom: 1px dotted #aaa;background:linear-gradient(to bottom,#F5F2F2 0,#E3E3E3 41%,#D1D1D1 100%)"] {
+	background: #444 !important;
+}
+div[style="float:left;width:690px;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-webkit-box-sizing: border-box;padding-right: 11px;padding-left: 11px;border-left: 1px solid #ccc;border: 1px solid #ccc;border-right:1px solid #ccc;border-top: 0;background: #e2e2e2;"] {
+	background: #000 !important;
+}
+.messages_seperation td {
+	background: #000 !important;
+}
+#messages_in tr:first-of-type td {
+    color: unset !important;
+}
+div[style="background:#e2e2e2;padding:5px;font-size:13px;word-spacing:4px;font-weight:bold"] {
+	background: #000 !important;
+}
+a[style="border-bottom: 1px dotted #aaa;background:#F7F7F7"] {
+	background: #7b7b7b !important;
+}
+div[style="background:white;margin:3px;padding-top:3px"] {
+	background: #000 !important;
+}
+div[style="float:left;width:690px;background:#F7F7F7"] {
+	background: #7b7b7b !important;
+}
+table[style="background-color: #FFFFFF; border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC;"] {
+	background: #000 !important;
+}
+table[background="/img/LongGenericTab.jpg"] {
+	background: #000 !important;
+	border: solid 1px #fff;
+}
+img[src="/img/box_login_tr.gif"] {
+	display: none;
+}
+img[src="/img/box_login_bl.gif"] {
+	display: none;
+}
+img[src="/img/box_login_br.gif"] {
+	display: none;
+}
+table[style="vertical-align:top;background-color: #FFFFFF; border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC;"] {
+	background: #000 !important;
+}
+span[style="padding-left: 5px; font-size: 13px; color: #6D6D6D; font-weight: bold; padding-right: 5px;"] {
+	color: #dadada !important;
+}
+tr[bgcolor="#EEEEEE"] {
+	background: #3b3b3b !important;
+}
+td[style="width: 415px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #666666; padding-left: 3px; padding-top:3px; padding-bottom:3px;"] {
+	color: #ccc !important;
+}
+td[style="width: 100px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #666666;"] {
+	color: #ccc !important;
+}
+td[style="width: 195px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #666666;"] {
+	color: #ccc !important;
+}
+td[style="width: 155px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #666666;"] {
+	color: #ccc !important;
+}
+td[bgcolor="#FFFFBB"] {
+	background: #4f4f2e !important;
+}
+table[background="/img/headgrad.jpg"] {
+	background: #000 !important;
+	border: solid 1px #fff;
+}
+.watch-comment-head[style="background-color: #fffcc2;"] {
+	background: #4f4f30 !important;
+}
+.eLink {
+    border-bottom: 1px dotted #9cb5ff;
+    color: #9cb5ff;
+}
+.vlPlayer2009.whiteBg .vlControls,
+.vlPlayer2009.whiteBg .vlProgressBar,
+.vlPlayer2009.whiteBg .vlcBtn {
+ background-color:#333
+}
+.vlPlayer2009.whiteBg .vlProgressBar,
+.vlPlayer2009.whiteBg .vlTime,
+.vlPlayer2009.whiteBg .vlcBtn,
+.vlPlayer2009.whiteBg .vlcCenter {
+ border-color:#111!important
+}
+.vlPlayer2009.whiteBg .vlcBtn>s>i,
+.vlPlayer2009.whiteBg .vlcCenter {
+ border-left-color:#2c2c2c!important
+}
+.vlPlayer2009.whiteBg .vlProgressBar {
+ border-bottom-color:#2c2c2c!important
+}
+.vlPlayer2009.whiteBg .vlcVolumeBar1 {
+ border-color:#333
+}
+.vlPlayer2009.whiteBg .vlcVolumeBar2 {
+ background-color:#494949;
+ border-color:#666
+}
+.vlPlayer2009.whiteBg .vlcVolumeBar3 {
+ background-color:#494949
+}
+.vlPlayer2009.whiteBg .vlcPlay>s>i {
+ background-position:-2px -301px
+}
+.vlPlayer2009.whiteBg.playing .vlcPlay>s>i {
+ background-position:-32px -301px
+}
+.vlPlayer2009.whiteBg .vlcMute>s>i {
+ background-position:-92px -301px
+}
+.vlPlayer2009.whiteBg.muted .vlcMute>s>i {
+ background-position:-122px -301px
+}
+.vlPlayer2009.whiteBg .vlcFullScreen>s>i {
+ background-position:-242px -301px
+}
+.vlPlayer2009.whiteBg.full .vlcFullScreen>s>i {
+ background-position:-152px -301px
+}
+.vlPlayer2009.whiteBg .vlcExpand>s>i {
+ background-position:-182px -301px
+}
+.vlPlayer2009.whiteBg.expanded .vlcExpand>s>i {
+ background-position:-212px -301px
+}
+.vlPlayer2009.whiteBg .vlcToggleHD>s>i {
+ background-position:-482px -301px
+}
+.vlPlayer2009.whiteBg .vlcBtn>s {
+ background-position:-240px -325px
+}
+.vlPlayer2009.whiteBg.playing .vlcPlay>s {
+ background-position:-270px -325px
+}
+.vlPlayer2009.whiteBg .vlcMute>s {
+ background-position:-330px -325px
+}
+.vlPlayer2009.whiteBg.muted .vlcMute>s {
+ background-position:-360px -325px
+}
+.vlPlayer2009.whiteBg .vlcExpand>s {
+ background-position:-420px -325px
+}
+.vlPlayer2009.whiteBg.expanded .vlcExpand>s {
+ background-position:-450px -325px
+}
+.vlPlayer2009.whiteBg .vlcToggleHD>s {
+ background-position:-300px -325px
+}
+.vlPlayer2009.whiteBg .vlcFullScreen>s {
+ background-position:-390px -325px
+}
+.vlPlayer2009.whiteBg .vlPlay {
+ background-image:url(player/skins/2009BV/img/play_black.png)
+}
+.vlPlayer2009 .vlTimestamp {
+    color: #fff;
 }
