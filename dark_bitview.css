@@ -508,6 +508,15 @@ table[background="/img/headgrad.jpg"] {
 .watch-video-response-duration {
     color: #fff !important;
 }
+.signInBoxContent {
+    background: #000;
+}
+#loginForm {
+    background: #000;
+}
+.signup-table {
+    background: #000;
+}
 .vlPlayer2009.whiteBg .vlControls,
 .vlPlayer2009.whiteBg .vlProgressBar,
 .vlPlayer2009.whiteBg .vlcBtn {
